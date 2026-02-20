@@ -1,0 +1,145 @@
+{
+  "missions": [
+    {
+      "id": "1",
+      "title": "Nettoyage de plage",
+      "description": "Ramassage des déchets sur la plage principale. Rejoignez-nous pour une matinée d'action collective afin de rendre notre littoral propre et accueillant.",
+      "date": "2026-03-01T10:00:00.000Z",
+      "location": "Plage Centrale, Sousse",
+      "category": "Nettoyage",
+      "capacity": 30,
+      "image": "https://images.unsplash.com/photo-1595278069441-2cf29f8005a4?w=800&q=80"
+    },
+    {
+      "id": "2",
+      "title": "Plantation d'arbres",
+      "description": "Plantation de 100 jeunes arbres en zone urbaine. Participez à la reforestation de notre ville et contribuez à un avenir plus vert.",
+      "date": "2026-03-05T09:00:00.000Z",
+      "location": "Parc des Jardins, Tunis",
+      "category": "Plantation",
+      "capacity": 25,
+      "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=800&q=80"
+    },
+    {
+      "id": "3",
+      "title": "Atelier zéro déchet",
+      "description": "Sensibilisation et pratiques pour réduire les déchets au quotidien. Apprenez à fabriquer vos propres produits ménagers écologiques.",
+      "date": "2026-03-10T14:00:00.000Z",
+      "location": "Maison de Quartier, Sfax",
+      "category": "Atelier",
+      "capacity": 40,
+      "image": "https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=800&q=80"
+    },
+    {
+      "id": "4",
+      "title": "Sensibilisation en école",
+      "description": "Intervention sur l'écologie et le tri des déchets auprès des élèves du primaire. Éduquons la prochaine génération !",
+      "date": "2026-03-15T08:30:00.000Z",
+      "location": "École Jean Moulin, Bizerte",
+      "category": "Sensibilisation",
+      "capacity": 20,
+      "image": "https://images.unsplash.com/photo-1497486751825-1233686d5d80?w=800&q=80"
+    },
+    {
+      "id": "5",
+      "title": "Nettoyage de forêt",
+      "description": "Grande opération de nettoyage dans la forêt de Ain Draham. Venez en famille pour une journée au grand air tout en protégeant la nature.",
+      "date": "2026-03-20T08:00:00.000Z",
+      "location": "Forêt de Ain Draham",
+      "category": "Nettoyage",
+      "capacity": 50,
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80"
+    },
+    {
+      "id": "6",
+      "title": "Jardin communautaire",
+      "description": "Création d'un jardin partagé au cœur du quartier. Cultivons ensemble des légumes bio et renforçons les liens de voisinage.",
+      "date": "2026-03-25T10:00:00.000Z",
+      "location": "Quartier Ennasr, Ariana",
+      "category": "Plantation",
+      "capacity": 15,
+      "image": "https://images.unsplash.com/photo-1464226184884-fa280b87c3a9?w=800&q=80"
+    },
+    {
+      "id": "7",
+      "title": "Atelier compostage",
+      "description": "Découvrez comment transformer vos déchets organiques en compost riche. Un geste simple pour réduire votre empreinte écologique.",
+      "date": "2026-04-02T15:00:00.000Z",
+      "location": "Centre Culturel, Monastir",
+      "category": "Atelier",
+      "capacity": 30,
+      "image": "https://images.unsplash.com/photo-1591857177580-dc82b9ac4994?w=800&q=80"
+    },
+    {
+      "id": "8",
+      "title": "Marche pour le climat",
+      "description": "Rejoignez la marche citoyenne pour sensibiliser à l'urgence climatique. Ensemble, faisons entendre notre voix pour la planète.",
+      "date": "2026-04-10T09:00:00.000Z",
+      "location": "Avenue Habib Bourguiba, Tunis",
+      "category": "Sensibilisation",
+      "capacity": 200,
+      "image": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=800&q=80"
+    },
+    {
+      "id": "9",
+      "title": "Recyclage de papier",
+      "description": "Apprenez à recycler votre vieux papier pour créer de nouvelles feuilles artisanales. Un atelier créatif et écologique pour tous.",
+      "date": "2026-04-15T14:00:00.000Z",
+      "location": "Bibliothèque Municipale, Grombalia",
+      "category": "Atelier",
+      "capacity": 12,
+      "image": "https://images.unsplash.com/photo-1591193516411-910bcadbc312?w=800&q=80"
+    },
+    {
+      "id": "10",
+      "title": "Sauvetage de plage",
+      "description": "Après une tempête, aidons à ramasser les débris marins qui menacent la faune locale. Equipement fourni sur place.",
+      "date": "2026-04-20T08:30:00.000Z",
+      "location": "Plage de Sidi Bou Saïd, Tunis",
+      "category": "Nettoyage",
+      "capacity": 45,
+      "image": "https://images.unsplash.com/photo-1520116468816-95b69f847357?w=800&q=80"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Farah Selmi",
+      "email": "farahhselmii@gmail.com",
+      "password": "123456",
+      "stats": {
+        "completedMissions": 3
+      }
+    },
+    {
+      "id": "2",
+      "name": "eya ayari",
+      "email": "eya@eco.tn",
+      "password": "1234",
+      "stats": {
+        "completedMissions": 5
+      }
+    },
+    {
+      "id": "92ec",
+      "name": "nour selmi",
+      "email": "nour@eco.tn",
+      "password": "1234556789",
+      "stats": {
+        "completedMissions": 0
+      }
+    }
+  ],
+  "registrations": [
+    {
+      "id": "4b21",
+      "userId": "92ec",
+      "missionId": "1"
+    },
+    {
+      "id": "6083",
+      "userId": "1",
+      "missionId": "4"
+    }
+  ]
+}
